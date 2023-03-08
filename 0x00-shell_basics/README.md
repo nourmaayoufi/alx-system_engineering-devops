@@ -10,3 +10,4 @@ Delete the directory my_first_directory that is in the /tmp directory.
 Write a script that changes the working directory to the previous one.
 List files in the /boot directory in long format
 Write a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory
+Create a symbolic link to /bin/ls, named __ls__
