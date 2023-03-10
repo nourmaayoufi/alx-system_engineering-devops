@@ -1,2 +1,2 @@
 #!/bin/bash
-find 0x00-shell_basics -type f -print0 | xargs -0 file -m school.mgc
+0 string SCHOOL School data file
