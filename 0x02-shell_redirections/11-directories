@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -path . -o -path './.*' -prune -o -type d -print
+find . -type d -path . -o -path './.*' -mindepth 1 
